@@ -3,7 +3,7 @@ const searchButton = document.querySelector('.search-box button');
 const weatherBox = document.querySelector('.weather-box');
 const weatherDetails = document.querySelector('.weather-details');
 const error404 = document.querySelector('.not-found');
-const APIKey = 'c3969f3b8093deebec5e602b2d1bf9c3'; // Substitua com sua chave de API do OpenWeatherMap
+const APIKey = ''; // Substitua com sua chave de API do OpenWeatherMap
 
 const weatherImages = {
     Clear: 'images/clear.png',
